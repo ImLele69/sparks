@@ -1,0 +1,14 @@
+build/
+iso/
+*.iso
+*.log
+*.sock
+
+toolchain/src/
+toolchain/build-binutils/
+toolchain/build-gcc/
+toolchain/cross/
+
+.idea/
+.vscode/
+*.iml
